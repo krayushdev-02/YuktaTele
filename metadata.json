@@ -1,0 +1,6 @@
+{
+  "name": "YuktaTele",
+  "description": "YuktaTele is a modern, responsive social messaging app with real-time style chats, groups, public channels, expiring stories, and Gemini AI smart replies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
